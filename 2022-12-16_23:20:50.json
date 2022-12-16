@@ -1,0 +1,323 @@
+{
+  "best_24h_crytpo": 6934252.29207137,
+  "top_10_trend": [
+    {
+      "symbol": "USDT",
+      "increment": 0.00394986
+    },
+    {
+      "symbol": "USDC",
+      "increment": 0.0066177
+    },
+    {
+      "symbol": "DAI",
+      "increment": 0.05460155
+    },
+    {
+      "symbol": "LEO",
+      "increment": 0.06500537
+    },
+    {
+      "symbol": "CELO",
+      "increment": 0.9097726
+    },
+    {
+      "symbol": "PAXG",
+      "increment": 1.20623943
+    },
+    {
+      "symbol": "OKB",
+      "increment": 1.7389783
+    },
+    {
+      "symbol": "BSV",
+      "increment": 2.5060375
+    },
+    {
+      "symbol": "USDN",
+      "increment": 7.08159242
+    },
+    {
+      "symbol": "TON",
+      "increment": 10.71514765
+    }
+  ],
+  "flop_10_trend": [
+    {
+      "symbol": "CRV",
+      "increment": -7.59307507
+    },
+    {
+      "symbol": "SOL",
+      "increment": -7.74704453
+    },
+    {
+      "symbol": "KAVA",
+      "increment": -8.09006036
+    },
+    {
+      "symbol": "FTM",
+      "increment": -8.10670204
+    },
+    {
+      "symbol": "FIL",
+      "increment": -8.12483493
+    },
+    {
+      "symbol": "APE",
+      "increment": -8.4143742
+    },
+    {
+      "symbol": "XCN",
+      "increment": -8.59639004
+    },
+    {
+      "symbol": "SNX",
+      "increment": -8.95555862
+    },
+    {
+      "symbol": "COMP",
+      "increment": -9.22009401
+    },
+    {
+      "symbol": "TWT",
+      "increment": -12.36550889
+    }
+  ],
+  "top_20": [
+    {
+      "symbol": "BTC",
+      "unit_value": 16874.547664854796,
+      "profit": -2.89783036
+    },
+    {
+      "symbol": "ETH",
+      "unit_value": 1197.9685629233325,
+      "profit": -5.26909378
+    },
+    {
+      "symbol": "USDT",
+      "unit_value": 1.000113655005826,
+      "profit": 0.00394986
+    },
+    {
+      "symbol": "USDC",
+      "unit_value": 1.0000039362553768,
+      "profit": 0.0066177
+    },
+    {
+      "symbol": "BNB",
+      "unit_value": 242.76268546067794,
+      "profit": -5.86859904
+    },
+    {
+      "symbol": "BUSD",
+      "unit_value": 0.999580955900936,
+      "profit": -0.08157202
+    },
+    {
+      "symbol": "XRP",
+      "unit_value": 0.36360963491278064,
+      "profit": -3.72637445
+    },
+    {
+      "symbol": "DOGE",
+      "unit_value": 0.08098155073661757,
+      "profit": -4.29770788
+    },
+    {
+      "symbol": "ADA",
+      "unit_value": 0.2826720439447729,
+      "profit": -5.4506622
+    },
+    {
+      "symbol": "MATIC",
+      "unit_value": 0.8259451696836744,
+      "profit": -5.76130348
+    },
+    {
+      "symbol": "DAI",
+      "unit_value": 0.9997689387304187,
+      "profit": 0.05460155
+    },
+    {
+      "symbol": "DOT",
+      "unit_value": 4.975897309352493,
+      "profit": -4.59702581
+    },
+    {
+      "symbol": "TRX",
+      "unit_value": 0.054593119182792645,
+      "profit": -2.05513653
+    },
+    {
+      "symbol": "LTC",
+      "unit_value": 67.88648178007999,
+      "profit": -6.5309225
+    },
+    {
+      "symbol": "SOL",
+      "unit_value": 12.911054640169883,
+      "profit": -7.74704453
+    },
+    {
+      "symbol": "SHIB",
+      "unit_value": 8.550249308706212e-06,
+      "profit": -3.24135252
+    },
+    {
+      "symbol": "UNI",
+      "unit_value": 5.480632856676536,
+      "profit": -5.5147249
+    },
+    {
+      "symbol": "AVAX",
+      "unit_value": 12.456925087875286,
+      "profit": -5.34834624
+    },
+    {
+      "symbol": "LEO",
+      "unit_value": 3.689699722343449,
+      "profit": 0.06500537
+    },
+    {
+      "symbol": "WBTC",
+      "unit_value": 16810.817101909946,
+      "profit": -3.0287355
+    }
+  ],
+  "top_76_mln": [
+    {
+      "symbol": "BTC",
+      "unit_value": 16874.547664854796
+    },
+    {
+      "symbol": "ETH",
+      "unit_value": 1197.9685629233325
+    },
+    {
+      "symbol": "USDT",
+      "unit_value": 1.000113655005826
+    },
+    {
+      "symbol": "USDC",
+      "unit_value": 1.0000039362553768
+    },
+    {
+      "symbol": "BNB",
+      "unit_value": 242.76268546067794
+    },
+    {
+      "symbol": "BUSD",
+      "unit_value": 0.999580955900936
+    },
+    {
+      "symbol": "XRP",
+      "unit_value": 0.36360963491278064
+    },
+    {
+      "symbol": "DOGE",
+      "unit_value": 0.08098155073661757
+    },
+    {
+      "symbol": "ADA",
+      "unit_value": 0.2826720439447729
+    },
+    {
+      "symbol": "MATIC",
+      "unit_value": 0.8259451696836744
+    },
+    {
+      "symbol": "DAI",
+      "unit_value": 0.9997689387304187
+    },
+    {
+      "symbol": "DOT",
+      "unit_value": 4.975897309352493
+    },
+    {
+      "symbol": "TRX",
+      "unit_value": 0.054593119182792645
+    },
+    {
+      "symbol": "LTC",
+      "unit_value": 67.88648178007999
+    },
+    {
+      "symbol": "SOL",
+      "unit_value": 12.911054640169883
+    },
+    {
+      "symbol": "SHIB",
+      "unit_value": 8.550249308706212e-06
+    },
+    {
+      "symbol": "UNI",
+      "unit_value": 5.480632856676536
+    },
+    {
+      "symbol": "AVAX",
+      "unit_value": 12.456925087875286
+    },
+    {
+      "symbol": "WBTC",
+      "unit_value": 16810.817101909946
+    },
+    {
+      "symbol": "LINK",
+      "unit_value": 6.146205029774443
+    },
+    {
+      "symbol": "ATOM",
+      "unit_value": 8.985359773116157
+    },
+    {
+      "symbol": "ETC",
+      "unit_value": 17.144465088806843
+    },
+    {
+      "symbol": "BCH",
+      "unit_value": 104.29923156968353
+    },
+    {
+      "symbol": "ALGO",
+      "unit_value": 0.20099492127792984
+    },
+    {
+      "symbol": "APE",
+      "unit_value": 3.6762993545255607
+    },
+    {
+      "symbol": "FIL",
+      "unit_value": 3.797183995194651
+    },
+    {
+      "symbol": "EOS",
+      "unit_value": 0.9242284153053172
+    },
+    {
+      "symbol": "BSV",
+      "unit_value": 48.19827214173873
+    },
+    {
+      "symbol": "CHZ",
+      "unit_value": 0.13284978608470716
+    },
+    {
+      "symbol": "TWT",
+      "unit_value": 1.884571737986409
+    },
+    {
+      "symbol": "SAND",
+      "unit_value": 0.5053339150244954
+    },
+    {
+      "symbol": "FTM",
+      "unit_value": 0.20963246912879796
+    },
+    {
+      "symbol": "APT",
+      "unit_value": 4.357689904019113
+    }
+  ]
+}
